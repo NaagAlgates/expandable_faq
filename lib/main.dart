@@ -33,7 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
   bool isExpanded = false;
   var _icon = Icons.arrow_drop_up;
   Widget get customContainer => AnimatedContainer(
-    duration: Duration(seconds: 1),
+    duration: Duration(milliseconds: 200),
       height: _height,
       color: Colors.orange,
       child: Padding(
@@ -82,7 +82,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     child: customContainer,
                     onTap: () {
                       setState(() {
-                        _height = isExpanded?  40:150;
+                        _height = isExpanded?  40:160;
                         _icon = isExpanded? Icons.arrow_drop_down:Icons.arrow_drop_up;
                         isExpanded = !isExpanded;
                       });
