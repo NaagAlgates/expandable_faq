@@ -1,16 +1,9 @@
-# animated_containers_app
+# Expandable FAQ Sample
 
-A new Flutter application.
+A new Flutter application that shows how to easily create an expandable FAQ.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Screenshot_1576101084](https://user-images.githubusercontent.com/14884575/70663520-a839a180-1cbc-11ea-9685-50f669eef41b.png)
+![Screenshot_1576101087](https://user-images.githubusercontent.com/14884575/70663521-a8d23800-1cbc-11ea-8447-ace06722014a.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
